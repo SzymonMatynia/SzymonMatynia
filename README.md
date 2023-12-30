@@ -10,4 +10,4 @@
 Well, overall, I do like to play Heroes3 and enjoy writing code.
 
 #### Yerba Mate! 🧉
-<img src="https://github.com/SzymonMatynia/SzymonMatynia/assets/31554149/e095e0de-dcef-48ca-879e-9973978dbc43" alt="drawing" width="100"/>
+![Screenshot 2023-12-30 at 16 39 46](https://github.com/SzymonMatynia/SzymonMatynia/assets/31554149/7b505afc-2278-48a9-85d8-721e3494cc81)
