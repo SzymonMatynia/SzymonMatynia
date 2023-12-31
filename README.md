@@ -9,7 +9,7 @@
 
 Well, overall, I do like to play Heroes3 and enjoy writing code.
 
-My personal website (still in progress!): <a href="https://yerbyte.com" target="_blank">https://yerbyte.com</a>
+My personal website built with Next.js (App Router), TypeScript, Tailwind and RHF + zod: <a href="https://yerbyte.com" target="_blank">https://yerbyte.com</a>
 
 #### Yerba Mate! 🧉
 ![Screenshot 2023-12-30 at 16 39 46](https://github.com/SzymonMatynia/SzymonMatynia/assets/31554149/7b505afc-2278-48a9-85d8-721e3494cc81)
