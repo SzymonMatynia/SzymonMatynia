@@ -16,4 +16,3 @@ My personal website built with Next.js (App Router), TypeScript, Tailwind and RH
 ---
 
 #### Yerba Mate! 🧉
-![Screenshot 2023-12-30 at 16 39 46](https://github.com/SzymonMatynia/SzymonMatynia/assets/31554149/7b505afc-2278-48a9-85d8-721e3494cc81)
