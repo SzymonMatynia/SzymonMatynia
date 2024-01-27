@@ -5,12 +5,14 @@
 - 🇵🇱 I'm from Poland.
 - 👨‍💻 I’m currently working as a Software Developer (Frontend) at Heyconnect GmbH.
 - 🔭 I’m currently learning Swift & iOS development and Spanish.
-- 🛠️ My tech stack consists of: JavaScript, React, TypeScript, Tailwind, Node.js, NestJS, AWS, Playwright, Puppeteer.
 - 📚 My favorite libraries are: <a href="https://ui.shadcn.com" target="_blank">shadcn/ui</a> and <a href="https://tanstack.com" target="_blank">Tanstack's</a>
 - 🚀 I like to create clean, reusable and accessible components in React.
 
-Well, overall, I do like to play Heroes3 and enjoy writing code.
+  
+# Tech stack
 
----
+![all](https://github.com/SzymonMatynia/SzymonMatynia/assets/31554149/c46f93c0-a60c-4aa2-9239-02350b1027ab)
 
-#### Yerba Mate! 🧉
+
+# Hmm 🤔
+Well, I do really like to write code and I love Yerba mate.
