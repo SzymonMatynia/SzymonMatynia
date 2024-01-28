@@ -10,9 +10,7 @@
 
   
 # Tech stack
-
-![all](https://github.com/SzymonMatynia/SzymonMatynia/assets/31554149/c46f93c0-a60c-4aa2-9239-02350b1027ab)
-
+![all](https://skillicons.dev/icons?i=react,next,js,ts,html,css,tailwind,nodejs,express,nestjs,docker,git,postgresql,mysql,figma,github,gitlab)
 
 # Hmm 🤔
 Well, I do really like to write code and I love Yerba mate.
