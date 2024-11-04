@@ -4,16 +4,15 @@
 - ☕️ I have 6y+ experience in Software Engineering.
 - 🇵🇱 I'm from Poland.
 - 👨‍💻 A freelancer with a can-do attitude
-- 🔭 I’m currently learning Swift & iOS development and Spanish.
-- 📚 My favorite libraries are: <a href="https://ui.shadcn.com" target="_blank">shadcn/ui</a> and <a href="https://tanstack.com" target="_blank">Tanstack's</a>
-- 🚀 I like to create clean, reusable and accessible components in React.
+- 🔭 I’m currently into Swift, iOS development and Spanish.
+- 🚀 I like to create digital products that are 🤯🤯🤯
 
   
 # Tech stack
 ![all](https://skillicons.dev/icons?i=react,next,js,ts,html,css,tailwind,nodejs,express,nestjs,docker,git,postgresql,mysql,figma,github,gitlab)
 
-# Hmm 🤔
-Well, I do really like to write code and I love Yerba mate.
+# Fun fact 🤔
+I do really like to write code y me encanta beber yerbamate.
 
 # My website
 https://matynia.dev/
