@@ -1,7 +1,7 @@
 # Hi there! I'm Simon. 👋 
 
 
-- ☕️ I have 6y+ experience in Software Engineering.
+- ☕️ I have 8y+ experience in Software Engineering.
 - 🇵🇱 I'm from Poland.
 - 👨‍💻 A freelancer with a can-do attitude
 - 🔭 I’m currently into Swift, iOS development and Spanish.
