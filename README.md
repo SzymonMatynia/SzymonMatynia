@@ -13,6 +13,3 @@
 
 # Fun fact 🤔
 I do really like to write code y me encanta beber yerbamate.
-
-# My website
-https://matynia.dev/
